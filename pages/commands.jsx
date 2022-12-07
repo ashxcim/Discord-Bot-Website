@@ -3,27 +3,17 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    "/help",
-    "/invite",
-    "/lyrics",
+    ".yardım",
+    ".yardım ayarlamalı ",
+    " .yardım eğlence",
     "/ping",
     "/stats",
-    "/setdj",
-    "/play",
+    "/.yardım kullanıcı",
+    ".yardım yetkili ",
     "/serach",
-    "/stop",
+    ".yardım yetkili ",
     "/skip",
-    "/back",
-    "/clear",
-    "/time",
-      "/queue",
-      "/pause",
-      "/resume",
-      "/volume",
-      "/nowplaying",
-      "/save",
-      "/loop",
-      "/filter"
+   
       ]
   return (
     <>
@@ -36,7 +26,7 @@ export default function Commands() {
          Bot Commands
         </p>
         <p className="text-white text-sm text-opacity-50 mb-5">
-        You can get information about the commands of the Astra Bot.
+        You can get information about the commands of the Nuhz Bot.
         </p>
 
         <div>
@@ -64,13 +54,13 @@ export default function Commands() {
               <Menu.Items className="z-1 custom-scroll absolute left-0 w-full mt-2 origin-top-right bg-black overflow-auto max-h-60 border border-black border-opacity-20 bg-opacity-95 rounded-lg p-1">
                 <div className="px-1 py-1 w-full">
 
-            {commands.map(astra => (
+            {commands.map(nuhz => (
 
                 <Menu.Item>
                     <button className={`w-full rounded-lg p-2 cursor-pointer text-white flex items-center space-x-3 transition-all duration-200`}>
                     <>
                           <i className="fa-spin text-xl text-white text-opacity-20" />
-                         {astra}</>
+                         {nuhz}</>
                     </button>
                     </Menu.Item>
             ))}
@@ -83,23 +73,23 @@ export default function Commands() {
 
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-  <Link href={"https://bit.ly/3PHDjyC"}>
+  <Link href={"https://discord.com/api/oauth2/authorize?client_id=884215456670572575&permissions=8&scope=bot%20applications.commands"}>
   <a className={"flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Invite Astra</a>
+Invite Nuhz</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://discord.gg/ZcDprCrFTn"}>
+  <Link href={"https://discord.gg/VuxAwpEqws"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Support Server</a>
   </Link>
 
   <div className="py-10"></div>
   
-  <Link href={"https://bit.ly/3LYzaDe"}>
+  <Link href={"1048721231148490842"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
-Vote Astra</a>
+Vote Nuhz</a>
   </Link>
 </div>
 
