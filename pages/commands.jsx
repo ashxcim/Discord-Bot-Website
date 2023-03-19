@@ -3,10 +3,10 @@ import Link from "next/link";
 
 export default function Commands() {
   const commands = [
-    ".yardım",
-    ".yardım ayarlamalı ",
-    " .yardım eğlence",
-    "/ping",
+    ".help",
+    ".bildiri  ",
+    " .invite ",
+    ".language ",
     "/stats",
     "/.yardım kullanıcı",
     ".yardım yetkili ",
