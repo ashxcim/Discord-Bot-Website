@@ -87,8 +87,8 @@ Vote AlisaBOT</a>
               <>
                 <div className="lg:mx-4 lg:p-8 py-4 lg:py-16 flex items-center justify-center flex-col text-center w-full lg:w-auto lg:text-left lg:flex-none">
                   <img src="https://cdn.discordapp.com/attachments/1075544712255123487/1087082335784153291/image1_2.png"  width="256" className="lg:hidden rounded-xl mb-5 shadow-xl shadow-black" />
-                  <p className="text-3xl text-white font-semibold">Best Your Bot</p>
-                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with AlisaBOT, the best and most up-to-date bot?</p>
+                  <p className="text-3xl text-white font-semibold">En İyi Botunuz</p>
+                  <p className="text-md text-white font-medium text-gray-500 line-clamp-5">En iyi ve en güncel bot AlisaBOT ile en güzel partileri vermeye hazır mısınız?</p>
                 </div>
                 <img src="https://cdn.discordapp.com/attachments/1102685799226552341/1109812256268628099/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
