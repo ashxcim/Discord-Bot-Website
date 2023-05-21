@@ -18,12 +18,12 @@ export default function Partners() {
             <div className="flex flex-col justify-center text-white rounded">
             <a href="https://discord.gg/VuxAwpEqws">
                         <div className="flex-1 gap-x-4 flex items-center bg-gradient-to-b from-neutral-900/80 to-neutral-900/20 p-3 rounded-full">
-                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/icons/676124992919830548/68ef946cf7cc39e4063eed4d446f6dda.webp" />
+                            <img className="rounded-full h-32 w-32" src="https://cdn.discordapp.com/attachments/1102708044154011688/1109831307363614780/standard.gif" />
                             <div>
-                                <h1 className="leading-none text-3xl font-bold text-white">Code Share</h1>        
+                                <h1 className="leading-none text-3xl font-bold text-white">SalvoBots® ¦ SERVICE</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                        Share Your Codes, Can You Keep Your Projects Active Forever. World's Largest Website with Discord Interface!
+                                       ash?#5000, Site Developer's Largest Website with Discord Interface!
                                     </p>
                                 </div>     
                             </div>
