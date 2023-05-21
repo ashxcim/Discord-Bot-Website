@@ -29,18 +29,7 @@ export default function Footer() {
                                             aria-hidden="true"
                                         />
                                     </Menu.Button>
-<div className="py-1"></div>
-<a href="https://top.gg/api/widget/owner/924325576095973426.svg">
-  <img src={"https://top.gg/api/widget/servers/924325576095973426.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/api/widget/owner/924325576095973426.svg">
-  <img src={"https://top.gg/api/widget/upvotes/924325576095973426.svg"}/>
-</a>
-<div className="py-1"></div>
-<a href="https://top.gg/user/180320834068819968">
-  <img src={"https://top.gg/api/widget/owner/924325576095973426.svg"}/>
-</a>
+
                                 </div>
                             </Menu>
                         
