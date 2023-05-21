@@ -23,7 +23,7 @@ export default function Partners() {
                                 <h1 className="leading-none text-3xl font-bold text-white">SalvoBots® ¦ SERVICE</h1>        
                                 <div className="flex items-center mt-1">
                                     <p className="font-normal font-sm">
-                                       ash?#5000, Site Developer's Largest Website with Discord Interface!
+                                       ash?#5000, Site Developer's Kalite li Sitelerin Tek Adresi!
                                     </p>
                                 </div>     
                             </div>
