@@ -17,7 +17,7 @@ export default function Index() {
 	  </p>
         <div className="animateHeader mt-10 flex flex-wrap items-center justify-center gap-x-4">
   
-            <Link href={"https://discord.com/api/oauth2/authorize?client_id=884215456670572575&permissions=8&scope=bot%20applications.commands"}>
+            <Link href={"https://discord.com/api/oauth2/authorize?client_id=1087375299844509716&permissions=8&scope=bot%20applications.commands"}>
               <a
                 className={
                   "flex items-center px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " 
@@ -27,7 +27,7 @@ export default function Index() {
               </a>
             </Link>
   <div className="py-10"></div>
-  <Link href={"https://top.gg/user/180320834068819968"}>
+  <Link href={"https://top.gg/tr/bot/1087375299844509716"}>
   <a className={" px-6 justify-center gap-x-2 shadow-lg shadow-amber-600/20 rounded-xl py-4 font-medium bg-gradient-to-bl from-amber-700 to-amber-500 hover:opacity-80 transition duration-200 text-white " }>
 Vote Nuhz</a>
   </Link>
@@ -90,7 +90,7 @@ Vote Nuhz</a>
                   <p className="text-3xl text-white font-semibold">Best Your Bot</p>
                   <p className="text-md text-white font-medium text-gray-500 line-clamp-5">Are you ready to throw the best parties with Nuhz, the best and most up-to-date bot?</p>
                 </div>
-                <img src="https://cdn.discordapp.com/attachments/1075544712255123487/1087082335784153291/image1_2.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
+                <img src="https://cdn.discordapp.com/attachments/1102685799226552341/1109812256268628099/image.png" className="hidden lg:block rounded-xl perspective-right shadow-xl shadow-black" />
               </>
       
         </div>
