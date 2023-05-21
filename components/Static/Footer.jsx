@@ -55,12 +55,12 @@ export default function Footer() {
                                 </Link>
                             </div>
                             <div>
-                                <a href="https://discord.gg/3PXwCzS6n" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
-                                    Support Server
+                                <a href="https://discord.gg/pxBda9JnJv" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                    Destek Server
                                 </a>
                             </div>
                             <div>
-                                <a href=" https://discord.com/api/oauth2/authorize?client_id=884215456670572575&permissions=8&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
+                                <a href="https://discord.com/api/oauth2/authorize?client_id=1087375299844509716&permissions=8&scope=bot%20applications.commands" target="_blank" className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     Invite Bot
                                 </a>
                             </div>
@@ -68,7 +68,7 @@ export default function Footer() {
                         <div className="col-span-1">
                             <p className="text-white font-medium mt-3 sm:mt-0 sm:mb-3">Social</p>
                             <div>
-                                <Link href="https://discord.gg/3PXwCzS6nF">
+                                <Link href="https://discord.gg/pxBda9JnJv">
                                     <a className="text-white/50 hover:text-white hover:underline transform duration-200">
                                     <i className={`fa-brands fa-discord`} /> Disocrd 
                                     </a>
