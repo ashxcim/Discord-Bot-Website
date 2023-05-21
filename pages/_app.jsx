@@ -19,7 +19,7 @@ export default function AwardApp({ Component, pageProps }) {
  
   const NavItems = [
     {
-      link: true,
+      link: false,
       name: "Home",
       icon: "fal fa-home",
       activeIcon: "fa fa-home",
@@ -30,28 +30,28 @@ export default function AwardApp({ Component, pageProps }) {
       name: "Commands",
       icon: "fa fa-list-alt",
       activeIcon: "fa fa-list-alt",
-      href: "/commands",
+      href: "!yardım",
     },
     {
       link: true,
       name: "Support",
       icon: "fab fa-discord",
       activeIcon: "fab fa-discord",
-      href: "https://discord.gg/3PXwCzS6n",
+      href: "https://discord.gg/pxBda9JnJv",
     },
     {
       link: true,
       name: "Add Bot",
       icon: "fal fa-robot",
       activeIcon: "fab fa-robot",
-      href: "https://discord.com/api/oauth2/authorize?client_id=884215456670572575&permissions=8&scope=bot%20applications.commands",
+      href: "https://discord.com/api/oauth2/authorize?client_id=1087375299844509716&permissions=8&scope=bot%20applications.commands",
     },
        {
       link: true,
       name: "Vote",
       icon: "fa fa-plus",
       activeIcon: "fa fa-plus",
-      href: "https://top.gg/user/180320834068819968",
+      href: "https://top.gg/tr/bot/1087375299844509716",
     },
     {
       link: true,
@@ -71,7 +71,7 @@ export default function AwardApp({ Component, pageProps }) {
       />
       <Head>
         <title>
-          Nuhz Bot
+          Alisa Bot
         </title>
       </Head>
       <main className="transition-all duration-200 z-10 absolute inset-0 px-5 h-screen max-w-7xl w-full mx-auto">
